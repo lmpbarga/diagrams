@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T06:14:23.959Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8PTagB6DIw--DnmLzczg" version="17.4.5" type="github" pages="2"><diagram id="Zhbpje9xmvWDvInr4SOc" name="Page-1">3VZtT9swEP41+UiV1258hBaoJhjdOgHbNze5JdacuHIcmvLrZ8fnJmlgLQxN1aRWunt8PsfPc3eJE0zy+kqQVXbDE2CO7ya1E0wd3/dC33f0z002Bvkw9gyQCppgUAss6BMg6CJa0QTKXqDknEm66oMxLwqIZQ8jQvB1P+wnZ/1TVySFAbCICRui9zSRmUE/Rm6Lz4CmmT3Zc3ElJzYYgTIjCV93oODCCSaCc2msvJ4A0+RZXsy+yxdWtw8moJCHbEgZzH7kUxGefkvun+pb7s3mJ5jlkbAKL3wpuMrnuyfq/xWIotSfKPNOrTfGWZFWjAjHHzN17PlSW6m28JZyY6kTvCoS0Ke7anmdUQmLFYn16loVi8IymTPledvd3dvYRwMhoe5AeLsr4DlIsVEhuGo1wUrzQ/TXrW5egFjW1cwqRLBW0m3qlk5lIKOvYNcfsDsgCYrkTJep8mJGypLGioxSEiGHcIeuPrdQU/mAK9r+rvFRhN607oRNN9Yp1A0fuk5nl3bbbY1n970oVMkrEcP+WlN3S0H+IS4wcZD0OnMoe0fX6BlZLSaAEUkf+/38nNR4wpzTpgFszXn9sgrHO9Vi7o27uv23m2i8k8jbSWSIGSRqKm977bcXYzAoxnMS/8JO/6wGt+nvT+SRGGs+m2sZ9F/Go9HoCFveHx9dz4cDmqdEkiUpAam+2Sy+XCPDvJSpAGiA1zGt3iYrbcYbRhXlItjP99KIc73cAkr/tJHstpIqDSBemrewF72PSOEBIp3+U42i/3AuN94cBFUUgfjrYR0cOKzDoxrWYfBOwzraN/XfPKwd/YVlv/lMePvlHFz8Bg==</diagram><diagram id="IwLXNM-zDoi9R1Jvwsgs" name="Free">1ZZdb5swFIZ/DZeNAPORXCZpm2nqx6RMyuV0wC5YNRxknJLs188uJoGQbd2USJvEhf2eY/vwvMbGIctit5JQ5Y9ImXB8l+4ccuv4vhf4vmMel+5bJY68VsgkpzbpKKz5d2ZF16pbTlk9SFSIQvFqKKZYlixVAw2kxGaY9oJiuGoFGRsJ6xTEWN1wqvJWnYbuUf/EeJZ3K3uujRTQJVuhzoFi05PInUOWElG1rWK3ZMLA67i04+5/Ej0UJlmpPjQgKW/gsXj66i1nm41YBfGzuInaWd5AbO0L22LVviMgcVtSZiZxHbJocq7YuoLURBvtudZyVQjd83RzXJSt841JxXY9yRa5YlgwJfc6xUYPwOyO8WLbb478AyvlPfRTq4F1PDvMfISiG5bLHzCKR4zmVTXCpN9ODVnUSuIrW6JAqZUSS525eOFCnEggeFbqbqqZMa0vDCuut+DcBgpOqVnmLPyhPZfg7w35+9GYf3SGP7kW/66eX21S3CrBSw27OwUMDAp1fiDTQX2AhIkvWHPF0cBNUCkszlBXWJ0zp29wDpVZv9hl5vCbQFOTCVT8WwaKNbA/sdvxye1sHgdmqB5AuZ7yZCtcwD7innw+EZmEIwPjqBP7Fs7ItSz0/icLBRQJhbF79+E0JMFV3Qu8f9E9f+TeE8Pg88jCjma6105SJsnvL4ykPb4ekoMA6Wv2fqg9txuic6r9NfDCy4AOP3DLnDvl/uKW0d3jLf8e6/0rkbsf</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-24T06:20:20.489Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="xCAtmi0vRV0XpDOomOYT" version="17.4.6" type="github" pages="2">
+  <diagram id="IwLXNM-zDoi9R1Jvwsgs" name="Free">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1bn-aMmNT1C9WWlG47Ol-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1bn-aMmNT1C9WWlG47Ol-7" value="App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1bn-aMmNT1C9WWlG47Ol-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="163.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="1bn-aMmNT1C9WWlG47Ol-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="163.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="1bn-aMmNT1C9WWlG47Ol-12" value="Neo4J" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="520" y="170" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zhbpje9xmvWDvInr4SOc" name="Page-1">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gleHZmDr49TdWzxOo1HP-1" value="Front - React, Vue, Angular&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="240" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gleHZmDr49TdWzxOo1HP-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gleHZmDr49TdWzxOo1HP-1" target="gleHZmDr49TdWzxOo1HP-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="460" as="sourcePoint" />
+            <mxPoint x="160" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gleHZmDr49TdWzxOo1HP-3" value="Back - Node, Java, PHP e etc...&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="240" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gleHZmDr49TdWzxOo1HP-4" value="Database - MySQL, PostgreeSQL e etc...&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="460" y="240" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gleHZmDr49TdWzxOo1HP-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gleHZmDr49TdWzxOo1HP-3" target="gleHZmDr49TdWzxOo1HP-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="sourcePoint" />
+            <mxPoint x="510" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
